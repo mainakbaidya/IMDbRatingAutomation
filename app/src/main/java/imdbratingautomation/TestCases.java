@@ -75,7 +75,7 @@ public class TestCases {
             System.out.println("Most user rating movie : " + mostUserRatingMovie);
             System.out.println("");
 
-            System.out.println("end Test case: testCase02");
+            System.out.println("end Test case: testCase01");
 
         } catch (Exception e) {
             e.printStackTrace();
